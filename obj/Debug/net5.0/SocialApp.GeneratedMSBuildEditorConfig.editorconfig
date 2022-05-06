@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = API
+build_property.ProjectDir = D:\Programming Courses\Full Projects\Build_an_app_with_ASPNET_Core_Angular_2021_2\Build_an_app_with_ASPNET_Core_Angular_2021_2\SocialApp\Social-App\API\
